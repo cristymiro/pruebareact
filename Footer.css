@@ -1,0 +1,36 @@
+.footer{
+    background-color: black;
+    color: white;
+}
+
+.footer-info{
+    font-size: 20px;
+    padding: 30px 0 30px 50px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.footer-contact{
+    font-size: 15px;
+    padding: 100px 0 30px 50px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.footer-sns{
+    width: 70%;
+    margin: 0 auto;
+    padding: 30px 0 30px 50px;
+}
+
+.linkedin, .twitter, .facebook{
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border-bottom: 4px solid transparent;
+}
+
+.linkedin:hover, .twitter:hover, .facebook:hover{
+    border-color: white;
+    transition: 0.5s ease-out;
+}
